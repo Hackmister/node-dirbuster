@@ -1,5 +1,4 @@
 # directory-list-2.3-small.txt
-#
 # Copyright 2007 James Fisher
 #
 # This work is licensed under the Creative Commons 
